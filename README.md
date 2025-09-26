@@ -11,6 +11,7 @@ It provides useful utility commands for server admins and members, such as moder
 - Moderation tools (kick, ban, mute, purge messages)
 - Server information and user information commands
 - Extendable design for future modules
+- And more commands coming, soon
 
 ---
 
